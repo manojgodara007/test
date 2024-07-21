@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "The Cosmic Journey",
+    "description": "An astronaut embarks on a perilous mission to save humanity, facing the unknown depths of space and time.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDdlNTIwNjYtNzVhNS00MGVmLTk1ZGYtZmZiMjhiMmQ1ZjkwXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+    "magnetLinks": [
+      {"quality": "720p", "link": "magnet:?xt=urn:btih:ABCDEFGHIJKLMNOPQRST1234567890"},
+      {"quality": "1080p", "link": "magnet:?xt=urn:btih:ZYXWVUTSRQPONMLKJIHG0987654321"}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Whispers in the Wind",
+    "description": "A heartwarming tale of a small town coming together to overcome adversity and rediscover the power of community.",
+    "imageUrl": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/09/encanto-header.jpg",
+    "magnetLinks": [
+      {"quality": "720p", "link": "magnet:?xt=urn:btih:123456ABCDEFGHIJKLMNOPQRST7890"},
+      {"quality": "1080p", "link": "magnet:?xt=urn:btih:098765ZYXWVUTSRQPONMLKJIHG4321"}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Neon Nights",
+    "description": "In a cyberpunk future, a hacker uncovers a conspiracy that threatens the delicate balance between humans and AI.",
+    "imageUrl": "https://example.com/neon_nights_poster.jpg",
+    "magnetLinks": [
+      {"quality": "720p", "link": "magnet:?xt=urn:btih:QWERTYUIOPASDFGHJKLZXCVBNM12345"},
+      {"quality": "1080p", "link": "magnet:?xt=urn:btih:MNBVCXZLKJHGFDSAPOIUYTREWQ67890"}
+    ]
+  }
+]
