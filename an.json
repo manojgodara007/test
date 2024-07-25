@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Example Anime",
+    "description": "This is an example description.",
+    "imageUrl": "https://example.com/image.jpg",
+    "magnetLinks": [
+      {
+        "quality": "1080p",
+        "link": "magnet:?xt=urn:btih:example1080p"
+      }
+    ],
+    "episodes": [
+      {
+        "episodeNumber": "1",
+        "magnetLinks": [
+          {
+            "quality": "1080p",
+            "link": "magnet:?xt=urn:btih:exampleepisode1_1080p"
+          },
+          {
+            "quality": "720p",
+            "link": "magnet:?xt=urn:btih:exampleepisode1_720p"
+          }
+        ]
+      },
+      {
+        "episodeNumber": "2",
+        "magnetLinks": [
+          {
+            "quality": "1080p",
+            "link": "magnet:?xt=urn:btih:exampleepisode2_1080p"
+          },
+          {
+            "quality": "720p",
+            "link": "magnet:?xt=urn:btih:exampleepisode2_720p"
+          }
+        ]
+      }
+    ]
+  }
+]
