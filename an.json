@@ -4,12 +4,6 @@
     "title": "Example Anime",
     "description": "This is an example description.",
     "imageUrl": "https://example.com/image.jpg",
-    "magnetLinks": [
-      {
-        "quality": "1080p",
-        "link": "magnet:?xt=urn:btih:example1080p"
-      }
-    ],
     "episodes": [
       {
         "episodeNumber": "1",
